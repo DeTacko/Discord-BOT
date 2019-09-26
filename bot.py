@@ -192,4 +192,4 @@ async def digy(ctx):
 
 
 
-client.run('NTk3NDIwNjQ0OTMzNTY2NDkx.XSN0KA.B9sn7WkdGdSSnWwutmDIccWcUhY')
+client.run('Token')
